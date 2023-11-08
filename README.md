@@ -1,5 +1,5 @@
                                                  |--------------------------------------|
-                                                 | #AcadOES(Academic Online Examination)|
+                                                 | AcadOES(Academic Online Examination)|
                                                  |--------------------------------------|
 				
 
