@@ -1,13 +1,11 @@
-                                                                          |-------------------------------------|
-                                                                          | AcadOES(Academic Online Examination)|
-                                                                          |-------------------------------------|
+                                                 |--------------------------------------|
+                                                 | AcadOES(Academic Online Examination) |
+                                                 |--------------------------------------|
 				
 
 Introduction:
 ----------------
->> Now-a-days, Online examination system has become popular for competitive examinations because 
-     of its unique features such as auto-evaluation, speed and accuracy. Moreover, it also helps environments 
-     by reducing the use of paper.These are some reasons which motivated us to create "AcadOES".
+>> Now-a-days, Online examination system has become popular for competitive examinations because of its unique features such as auto-evaluation, speed and accuracy. Moreover, it also helps the environment by reducing the use of paper.These are some reasons which motivated us to create "AcadOES".
     In "AcadOES", students are asked to select answers from multiple options given for a single question. 
 
 Features:
